@@ -159,7 +159,7 @@ In a production deployment:
 
 ## 👤 Author
 
-Alexia Le 
+* Alexia Le *
 Aspiring Clinical Data Scientist | Python · FHIR · ML  
 
 
