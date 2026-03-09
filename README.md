@@ -159,9 +159,9 @@ In a production deployment:
 
 ## 👤 Author
 
-**[Your Name]**  
+Alexia Le 
 Aspiring Clinical Data Scientist | Python · FHIR · ML  
-[LinkedIn](#) · [GitHub](#) · [Demo](#)
+
 
 ---
 
